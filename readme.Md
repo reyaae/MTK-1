@@ -22,6 +22,6 @@ silahkan baca [Langkah-Langkah](Langkah-langkah) untuk menginstall python dari a
 - Validasi Email / Password
 
 #### LOGIKA XOR
-- Memilih Pembayaran Antara Kartu Dan Tunai
+- Pembayaran
 - Saklar Lampu
 - Tiket 
